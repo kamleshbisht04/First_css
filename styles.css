@@ -6,14 +6,21 @@ h1{
     font-family: arial,sans-serif;
 }
 #ul1{
-    text-align: center;
-    list-style-position: inside;
+    margin-left: 18cm;
+    color:yellowgreen;
+
 }
+a{
+    color: yellowgreen;
+}
+
+
 h2{
     color: white;
     margin: 20px 30px 30px 30px;
     background-color: rgb(252, 15, 252);
     font-family: Arial, sans-serif;
+    padding: 5px;
 }
 #border{
         padding:1px;
@@ -21,6 +28,16 @@ h2{
         border:1px solid #021a40;
         background-color:rgb(5, 5, 5);
      }
+p{
+     margin: 0px 30px 30px 30px;
+}
+#ul2{
+    margin-left: 0.5cm;
+}
+#ol1{
+    margin-left: 0.5cm;
+}
+
 p{
     margin: 0px 30px 30px 30px;
     margin-left: 30px;
